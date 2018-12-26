@@ -3,7 +3,6 @@ C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\bin\De
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\bin\Debug\netcoreapp2.1\ToDoApiTest.runtimeconfig.dev.json
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\bin\Debug\netcoreapp2.1\ToDoApiTest.dll
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\bin\Debug\netcoreapp2.1\ToDoApiTest.pdb
-C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\obj\Debug\netcoreapp2.1\ToDoApiTest.csprojAssemblyReference.cache
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\obj\Debug\netcoreapp2.1\ToDoApiTest.csproj.CoreCompileInputs.cache
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\obj\Debug\netcoreapp2.1\ToDoApiTest.RazorAssemblyInfo.cache
 C:\Users\Alex Navarro\Documents\Git Repos\ToDoAPI\ToDoApiTest\ToDoApiTest\obj\Debug\netcoreapp2.1\ToDoApiTest.RazorAssemblyInfo.cs
